@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.hossam.backgroundService:backgroundService:2.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/21690b9cc0e091c442be3d1579f8c367/transformed/jetified-backgroundService-2.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/21690b9cc0e091c442be3d1579f8c367/transformed/jetified-backgroundService-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/21690b9cc0e091c442be3d1579f8c367/transformed/jetified-backgroundService-2.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hossam.backgroundService/backgroundService/2.1.1/218c29601dc82f1015b12788fd2fb4f4f8482a33/backgroundService-2.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hossam.backgroundService/backgroundService/2.1.1/d52b87c2e4953fc083d7a07eda9a4d3d8b13350f/backgroundService-2.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
